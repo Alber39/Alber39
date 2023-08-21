@@ -1,6 +1,6 @@
 Olá, eu sou Alberone Rodrigues,
 
-Decidi mudar de carreira aos 39 anos, apaionado por Data Studio
+Decidi mudar de carreira aos 39 anos, apaixonado por Data Analysis and Business
 
 - 👋 Estou aprendendo; Python, SQL, Data Studio
 - 👀 Dedicado em aprender
